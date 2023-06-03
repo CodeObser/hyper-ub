@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on andriod apps, telegram bots, Web Apps
 - 🌱 I’m currently learning ts, java
-- 👯 I’m looking to collaborate on open source
+- 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with web devlopment
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Python
