@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 ![Huzu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyper-ub&show_icons=true&theme=merko)
 
 <h2>Streak <img src="https://emojis.slackmojis.com/emojis/images/1643514841/8541/computercat.gif?1643514841" width="22"></h2>
+
 ![image](https://github-readme-streak-stats.herokuapp.com/?user=hyper-ub&theme=dark)
 
 
