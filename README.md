@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 ![image](https://github-readme-streak-stats.herokuapp.com/?user=hyper-ub&theme=dark)
 
 
-**Languages and Tools:**  
+
+<h2>Langs And Tools <img src="[https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394](https://emojis.slackmojis.com/emojis/images/1643516686/27316/tooth.gif?1643516686)" width="22"></h2>  
 
 ![](https://skillicons.dev/icons?i=python,go,kotlin,typescript,androidstudio,idea,vscode,github,markdown,mongodb,redis)
